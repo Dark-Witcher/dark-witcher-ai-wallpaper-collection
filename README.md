@@ -20,11 +20,11 @@ The collection currently includes wallpapers for **desktop** and **mobile**, wit
 
 #### Dark
 
-<img src="Phone/Dark/solo_leveling_inspired_dark_mobile_wallpaper.png" alt="Solo Leveling Inspired Dark Mobile Wallpaper" width="450">
+<img src="Phone/Dark/solo_leveling_inspired_dark_mobile_wallpaper.jpg" alt="Solo Leveling Inspired Dark Mobile Wallpaper" width="450">
 
 #### Light
 
-<img src="Phone/Light/solo_leveling_inspired_light_mobile_wallpaper.png" alt="Solo Leveling Inspired Light Mobile Wallpaper" width="450">
+<img src="Phone/Light/solo_leveling_inspired_light_mobile_wallpaper.jpg" alt="Solo Leveling Inspired Light Mobile Wallpaper" width="450">
 
 ## About
 
